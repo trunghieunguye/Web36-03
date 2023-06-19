@@ -5,7 +5,7 @@
 }
 .container{
     width: 550px;
-    height: 1000px;
+    height: 1200px;
     background-color: rgb(33, 107, 168);
     margin: 0 auto;
 }
@@ -25,4 +25,13 @@ a:hover{
     padding-top: 40px;
     padding-left: 70px;
     
+}
+.icon{
+   margin-top: 50px;
+   display: flex;
+   justify-content: center;
+
+}
+i{
+    margin: 20px;
 }
