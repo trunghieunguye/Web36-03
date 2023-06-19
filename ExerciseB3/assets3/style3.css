@@ -1,0 +1,28 @@
+*{
+    color: white;
+    font-size: 18px;
+    line-height: 30px;
+}
+.container{
+    width: 550px;
+    height: 1000px;
+    background-color: rgb(33, 107, 168);
+    margin: 0 auto;
+}
+b{
+    text-transform: uppercase;
+}
+a{
+    text-decoration: none;
+
+}
+a:hover{
+    color: darkgrey;
+  
+}
+
+.owner, .intro, .advice, .address{
+    padding-top: 40px;
+    padding-left: 70px;
+    
+}
